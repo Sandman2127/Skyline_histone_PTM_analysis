@@ -7,9 +7,13 @@ from math import sqrt
 
 #usage: python Automating_MSMS_calculations_annotated.py outputfile_from_skyline.tsv
 
-"""******************************Automating MS/MS relative abundance calculations******************************"""
-				       """    by: Dean Sanders     """
-				"""   University of Wisconsin - Genetics Dept   """
+"""
+	
+	****************************** Automating MS/MS relative abundance calculations ******************************
+				     		    by: Dean Sanders    
+				   	University of Wisconsin - Genetics Department   
+
+"""
 
 def get_DA():
 	dictA={}
